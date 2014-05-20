@@ -1,0 +1,5 @@
+DBFlush(false) db not started
+StopNode()
+DBFlush(true) db not started
+ShinyCoin exiting
+

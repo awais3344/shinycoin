@@ -1,0 +1,11 @@
+To build the QT client:
+
+    qmake
+    make
+    ./shinycoin-qt
+
+To build the command-line client:
+
+    cd src
+    make -f makefile.unix
+    ./shinycoind
