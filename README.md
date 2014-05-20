@@ -2,11 +2,11 @@ ShinyCoin Official Development Repo
 ==================================
 
 ### What is ShinyCoin?
-ShinyCoin (abbreviated SHC), is the first [cryptocurrency](https://en.wikipedia.org/wiki/Cryptocurrency) design using the truly GPU- and ASCI-resistant [ramhog](https://github.com/shinycoin/shinycoin/whitepaper.md) proof-of-work algorithm.  ShinyCoin is based on [Peercoin](http://peercoin.net/) and uses its combined [proof-of-stake](http://peercoin.net/bin/peercoin-paper.pdf)/[proof-of-work](https://en.wikipedia.org/wiki/Proof-of-work_system) minting system.
+ShinyCoin (abbreviated SHC), is the first [cryptocurrency](https://en.wikipedia.org/wiki/Cryptocurrency) design using the truly GPU- and ASCI-resistant [ramhog](https://github.com/sunny-prince/shinycoin/blob/master/doc/whitepaper.md) proof-of-work algorithm.  ShinyCoin is based on [Peercoin](http://peercoin.net/) and uses its combined [proof-of-stake](http://peercoin.net/bin/peercoin-paper.pdf)/[proof-of-work](https://en.wikipedia.org/wiki/Proof-of-work_system) minting system.
 
 ### ShinyCoin Resources
-* [Source Code](https://github.com/shinycoin/shinycoin)
-* [Whitepaper](https://github.com/shinycoin/shinycoin/doc/whitepaper.md)
+* [Source Code](https://github.com/sunny-prince/shinycoin)
+* [Whitepaper](https://github.com/sunny-prince/shinycoin/blob/master/doc/whitepaper.md)
 
 Repo Guidelines
 ================================
